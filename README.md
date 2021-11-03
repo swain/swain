@@ -1,6 +1,6 @@
 ### Hi there! 👋
 
-I'm currently working @lifeomic.
+I'm currently building products at [LifeOmic](https://github.com/lifeomic).
 
 <!--
 **smolster/smolster** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
