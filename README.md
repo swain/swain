@@ -1,6 +1,5 @@
 ### Hi there! 👋
 
-I'm currently shipping software at [Tanium](https://github.com/tanium).
+I'm currently leading product engineering at [GoodParty.org](https://goodparty.org).
 
 Check out my pinned repositories to see some of my open-source work!
-
